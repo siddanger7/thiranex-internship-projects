@@ -8,6 +8,7 @@ Repository of projects completed during the **Thiranex** internship program.
 |---|---------|--------|--------|
 | 1 | Data Cleaning & Visualization Project | [`data-cleaning-and-visualization/`](data-cleaning-and-visualization/) | ✅ Done |
 | 2 | Predictive Modeling Using Machine Learning | [`predictive-modeling-machine-learning/`](predictive-modeling-machine-learning/) | ✅ Done |
+| 3 | Exploratory Data Analysis (EDA) Project | [`exploratory-data-analysis/`](exploratory-data-analysis/) | ✅ Done |
 
 ## About
 
@@ -31,6 +32,7 @@ git clone https://github.com/siddanger7/thiranex-internship-projects.git
 cd thiranex-internship-projects
 pip install -r data-cleaning-and-visualization/requirements.txt
 pip install -r predictive-modeling-machine-learning/requirements.txt
+pip install -r exploratory-data-analysis/requirements.txt
 ```
 
 ```text
