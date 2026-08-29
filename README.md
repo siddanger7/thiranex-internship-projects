@@ -7,6 +7,7 @@ Repository of projects completed during the **Thiranex** internship program.
 | # | Project | Folder | Status |
 |---|---------|--------|--------|
 | 1 | Data Cleaning & Visualization Project | [`data-cleaning-and-visualization/`](data-cleaning-and-visualization/) | ✅ Done |
+| 2 | Predictive Modeling Using Machine Learning | [`predictive-modeling-machine-learning/`](predictive-modeling-machine-learning/) | ✅ Done |
 
 ## About
 
@@ -19,6 +20,7 @@ Each project is self-contained inside its own folder and includes source code, d
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-0A6E8C?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
@@ -28,6 +30,7 @@ Each project is self-contained inside its own folder and includes source code, d
 git clone https://github.com/siddanger7/thiranex-internship-projects.git
 cd thiranex-internship-projects
 pip install -r data-cleaning-and-visualization/requirements.txt
+pip install -r predictive-modeling-machine-learning/requirements.txt
 ```
 
 ```text
