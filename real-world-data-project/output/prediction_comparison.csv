@@ -1,0 +1,5 @@
+Model,RMSE,MAE,R2,Dir Acc
+Naive (predict 0%),1.3638,1.1011,-0.0,0.0
+Linear Regression,1.3739,1.1172,-0.0149,0.4851
+Random Forest,1.4072,1.1429,-0.0646,0.4653
+Naive (yesterday's ret),2.0089,1.64,-1.1697,0.4554
