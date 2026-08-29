@@ -1,0 +1,981 @@
+region,category,product,price,quantity,order_date
+South,Clothing,Sneakers,41.81,7.0,2025-07-13
+East,Clothing,Sneakers,49.67,5.0,2025-11-02
+North,Sports,Yoga Mat,16.11,8.0,2025-02-08
+South,Clothing,Sneakers,81.57,2.0,2025-01-30
+South,Books,Comics,4.32,7.0,2025-07-31
+North,Home,Curtains,35.59,7.0,2025-04-12
+North,Books,Novel,9.27,8.0,2025-03-12
+West,Books,Textbook,57.44,4.0,2025-01-25
+East,Clothing,T-Shirt,44.535,1.0,2025-09-16
+East,Electronics,Laptop,44.535,6.0,2025-02-14
+East,Clothing,T-Shirt,25.17,6.0,2025-02-12
+South,Sports,Skipping Rope,10.68,2.0,2025-08-27
+East,Home,Chair,85.0,9.0,2025-06-03
+North,Books,Comics,6.58,3.0,2025-10-03
+West,Sports,Dumbbells,44.46,8.0,2025-02-20
+West,Sports,Yoga Mat,31.78,4.0,2025-03-21
+East,Clothing,Jeans,53.72,2.0,2025-08-16
+North,Home,Lamp,22.69,5.0,2025-04-22
+South,Sports,Skipping Rope,9.53,5.0,2025-03-20
+East,Home,Chair,52.04,1.0,2025-06-12
+North,Electronics,Laptop,44.535,7.0,2025-06-17
+West,Home,Curtains,25.38,9.0,2025-09-03
+West,Clothing,Jacket,83.69,8.0,2025-07-18
+East,Clothing,Chair,57.32,3.0,2025-12-10
+South,Sports,Skipping Rope,9.05,1.0,2025-04-20
+North,Books,Textbook,39.85,1.0,2025-08-27
+North,Books,Novel,14.62,7.0,2025-02-14
+East,Books,Novel,13.19,7.0,2025-03-17
+West,Home,Cookware,44.535,9.0,2025-05-23
+West,Sports,Yoga Mat,14.19,9.0,2025-06-10
+South,Home,Lamp,34.28,7.0,2025-02-09
+East,Electronics,Smartphone,44.535,8.0,2025-06-29
+South,Home,Lamp,27.61,7.0,2025-09-24
+West,Electronics,Laptop,44.535,5.0,2025-03-29
+East,Home,Lamp,26.12,6.0,2025-12-01
+North,Sports,Yoga Mat,20.99,5.0,2025-01-11
+South,Sports,Dumbbells,44.98,1.0,2025-02-15
+East,Home,Chair,91.48,2.0,2025-06-20
+North,Books,Textbook,47.52,4.0,2025-01-23
+West,Clothing,Jeans,47.3,6.0,2025-08-27
+South,Electronics,Headphones,68.33,9.0,2025-03-05
+West,Sports,Skipping Rope,7.87,2.0,2025-08-27
+South,Sports,Skipping Rope,9.32,7.0,2025-02-09
+West,Home,Lamp,18.33,1.0,2025-10-03
+South,Home,Lamp,23.88,6.0,2025-01-29
+East,Sports,Yoga Mat,20.04,9.0,2025-07-23
+West,Home,Lamp,12.79,5.0,2025-02-24
+South,Home,Lamp,22.86,9.0,2025-11-23
+West,Electronics,Novel,13.11,7.0,2025-01-23
+North,Clothing,Jeans,26.6,7.0,2025-05-21
+East,Clothing,Jeans,36.69,5.0,2025-04-20
+East,Clothing,Jacket,95.46,1.0,2025-06-07
+West,Sports,Skipping Rope,8.13,1.0,2025-03-30
+East,Books,Textbook,44.535,2.0,2025-10-24
+South,Books,Comics,6.91,1.0,2025-08-27
+North,Books,Novel,11.66,2.0,2025-08-27
+North,Home,Curtains,34.4,2.0,2025-03-12
+West,Sports,Dumbbells,30.57,8.0,2025-03-15
+West,Sports,Skipping Rope,11.28,9.0,2025-11-05
+North,Electronics,Headphones,71.19,5.0,2025-06-14
+North,Sports,Skipping Rope,12.98,1.0,2025-11-06
+East,Clothing,Jacket,44.535,3.0,2025-09-25
+South,Sports,Yoga Mat,19.73,2.0,2025-02-07
+West,Home,Curtains,29.83,3.0,2025-01-05
+West,Sports,Yoga Mat,11.38,8.0,2025-04-05
+North,Books,Textbook,34.85,5.0,2025-04-22
+South,Home,Lamp,26.73,5.0,2025-01-30
+East,Books,Novel,11.36,8.0,2025-02-21
+North,Clothing,Sneakers,45.53,3.0,2025-04-19
+North,Clothing,T-Shirt,15.88,8.0,2025-04-06
+East,Books,Novel,18.48,2.0,2025-02-26
+South,Clothing,Jeans,44.535,5.0,2025-12-12
+West,Sports,Skipping Rope,7.21,9.0,2025-09-24
+North,Home,Curtains,31.87,9.0,2025-03-07
+West,Books,Novel,12.81,5.0,2025-12-30
+North,Books,Comics,8.82,5.0,2025-06-29
+West,Electronics,Headphones,93.8,3.0,2025-12-30
+East,Books,Textbook,42.0,3.0,2025-02-19
+North,Books,Novel,11.9,9.0,2025-02-21
+South,Home,Chair,84.11,7.0,2025-10-24
+East,Electronics,Headphones,43.38,1.0,2025-12-16
+South,Books,Comics,9.63,9.0,2025-03-24
+East,Home,Cookware,57.14,7.0,2025-03-04
+South,Electronics,Headphones,80.28,4.0,2025-09-01
+South,Clothing,T-Shirt,11.96,3.0,2025-09-01
+West,Home,Cookware,85.23,5.0,2025-02-03
+East,Sports,Yoga Mat,18.56,5.0,2025-01-25
+East,Books,Novel,17.01,2.0,2025-04-29
+East,Home,Curtains,40.99,2.0,2025-04-22
+North,Electronics,Textbook,53.32,1.0,2025-08-30
+West,Electronics,Chair,91.39,2.0,2025-05-08
+West,Home,Curtains,22.72,5.0,2025-10-19
+North,Books,Textbook,50.28,4.0,2025-09-15
+South,Sports,Skipping Rope,10.11,7.0,2025-12-30
+North,Electronics,Headphones,73.25,5.0,2025-08-27
+South,Clothing,T-Shirt,44.535,1.0,2025-01-04
+West,Books,Textbook,37.66,8.0,2025-01-24
+South,Home,Curtains,32.49,1.0,2025-09-04
+East,Electronics,Smartphone,44.535,1.0,2025-11-15
+South,Electronics,Laptop,44.535,8.0,2025-02-20
+West,Electronics,Headphones,88.45,4.0,2025-07-08
+South,Home,Curtains,43.08,5.0,2025-08-27
+North,Home,Curtains,42.15,6.0,2025-12-17
+South,Books,Textbook,43.15,5.0,2025-09-20
+East,Sports,Yoga Mat,22.77,8.0,2025-01-18
+South,Sports,Dumbbells,40.67,5.0,2025-11-06
+West,Electronics,Headphones,66.28,5.0,2025-03-06
+East,Home,Curtains,28.11,3.0,2025-11-18
+South,Sports,Dumbbells,44.535,1.0,2025-12-16
+South,Home,Chair,79.81,6.0,2025-08-27
+South,Sports,Skipping Rope,9.82,3.0,2025-06-09
+South,Home,Chair,79.87,8.0,2025-07-05
+South,Electronics,Headphones,84.95,3.0,2025-06-11
+North,Home,Cookware,51.35,8.0,2025-05-05
+South,Home,Cookware,51.75,8.0,2025-05-24
+West,Books,Textbook,35.33,5.0,2025-07-23
+North,Electronics,Headphones,83.19,1.0,2025-03-19
+South,Electronics,Headphones,84.83,9.0,2025-07-22
+South,Books,Textbook,38.35,3.0,2025-05-27
+West,Home,Curtains,22.83,9.0,2025-01-24
+West,Electronics,Smartphone,44.535,5.0,2025-12-06
+North,Sports,Dumbbells,32.52,8.0,2025-12-24
+West,Books,Textbook,57.69,5.0,2025-09-27
+North,Electronics,Headphones,44.535,8.0,2025-02-23
+West,Books,Comics,10.6,5.0,2025-09-29
+East,Sports,Yoga Mat,10.21,7.0,2025-07-04
+South,Home,Chair,57.35,5.0,2025-11-07
+East,Home,Curtains,24.96,5.0,2025-03-02
+West,Home,Curtains,32.26,5.0,2025-07-20
+West,Clothing,T-Shirt,8.61,4.0,2025-11-26
+North,Clothing,Sneakers,44.535,7.0,2025-09-02
+West,Home,Curtains,44.535,5.0,2025-02-02
+East,Clothing,Sneakers,49.18,7.0,2025-02-15
+North,Books,Novel,6.39,3.0,2025-11-04
+North,Clothing,Jacket,54.59,6.0,2025-08-27
+East,Sports,Yoga Mat,17.6,3.0,2025-01-02
+East,Clothing,T-Shirt,11.76,5.0,2025-06-24
+North,Clothing,Jeans,21.69,7.0,2025-09-08
+North,Sports,Yoga Mat,14.91,4.0,2025-02-22
+West,Home,Curtains,39.03,9.0,2025-09-17
+East,Sports,Dumbbells,28.88,5.0,2025-03-21
+East,Clothing,T-Shirt,13.58,6.0,2025-08-27
+West,Books,Textbook,41.74,6.0,2025-12-11
+North,Clothing,T-Shirt,8.93,3.0,2025-12-26
+East,Home,Chair,67.65,6.0,2025-07-21
+North,Home,Lamp,39.94,2.0,2025-02-12
+North,Books,Textbook,33.59,7.0,2025-07-18
+South,Clothing,Jeans,34.57,2.0,2025-05-09
+East,Clothing,Sneakers,61.97,9.0,2025-02-11
+West,Sports,Yoga Mat,14.21,8.0,2025-02-22
+East,Electronics,Comics,7.86,8.0,2025-03-01
+North,Sports,Dumbbells,37.55,4.0,2025-10-30
+North,Sports,Yoga Mat,20.5,5.0,2025-06-22
+West,Books,Comics,7.67,8.0,2025-12-31
+West,Books,Comics,5.41,3.0,2025-03-05
+South,Clothing,Sneakers,63.96,8.0,2025-05-16
+West,Sports,Yoga Mat,13.87,2.0,2025-02-24
+South,Books,Comics,6.1,7.0,2025-09-23
+East,Electronics,Headphones,65.56,3.0,2025-01-25
+North,Home,Lamp,27.98,5.0,2025-07-30
+South,Home,Lamp,13.42,1.0,2025-07-31
+East,Clothing,Sneakers,40.04,1.0,2025-08-11
+West,Books,Textbook,44.535,8.0,2025-03-19
+West,Home,Chair,108.47,6.0,2025-12-03
+West,Home,Lamp,44.535,6.0,2025-05-24
+West,Sports,Skipping Rope,44.535,3.0,2025-01-29
+South,Books,Textbook,56.97,3.0,2025-03-19
+East,Electronics,Camera,44.535,4.0,2025-08-27
+North,Sports,Yoga Mat,16.37,1.0,2025-06-15
+East,Books,Textbook,44.535,9.0,2025-03-22
+West,Clothing,Sneakers,62.07,1.0,2025-11-23
+East,Home,Chair,63.22,4.0,2025-06-12
+South,Sports,Skipping Rope,3.8,3.0,2025-06-08
+North,Home,Lamp,44.535,8.0,2025-02-19
+West,Books,Comics,8.26,2.0,2025-06-21
+North,Sports,Dumbbells,44.535,6.0,2025-09-06
+West,Books,Comics,9.06,2.0,2025-07-03
+North,Clothing,Sneakers,46.34,9.0,2025-04-21
+North,Clothing,Jacket,104.39,2.0,2025-09-06
+West,Clothing,T-Shirt,16.19,5.0,2025-03-27
+West,Books,Comics,8.83,6.0,2025-01-30
+West,Home,Curtains,39.2,2.0,2025-01-11
+East,Home,Curtains,24.0,4.0,2025-11-08
+West,Sports,Skipping Rope,7.98,2.0,2025-04-17
+South,Clothing,Jeans,34.4,3.0,2025-08-10
+East,Sports,Skipping Rope,13.23,9.0,2025-12-25
+West,Electronics,Laptop,44.535,7.0,2025-06-03
+North,Clothing,Jeans,43.18,6.0,2025-09-13
+West,Clothing,Sneakers,58.49,6.0,2025-02-14
+North,Sports,Skipping Rope,12.56,4.0,2025-07-01
+North,Sports,Dumbbells,27.33,9.0,2025-01-30
+West,Books,Novel,11.26,8.0,2025-06-27
+South,Home,Lamp,24.41,9.0,2025-07-29
+North,Clothing,T-Shirt,13.68,2.0,2025-08-27
+East,Sports,Skipping Rope,3.97,3.0,2025-08-27
+North,Clothing,Jeans,44.535,1.0,2025-02-24
+West,Clothing,Jacket,32.25,8.0,2025-03-20
+North,Clothing,Jeans,40.29,3.0,2025-09-08
+North,Books,Comics,8.0,7.0,2025-10-29
+West,Home,Lamp,20.22,9.0,2025-07-30
+North,Books,Textbook,44.535,9.0,2025-09-15
+South,Electronics,Headphones,81.23,4.0,2025-09-03
+South,Clothing,Jacket,88.62,7.0,2025-08-27
+West,Home,Curtains,33.61,3.0,2025-05-22
+East,Books,Novel,18.69,8.0,2025-05-08
+East,Sports,Skipping Rope,9.24,5.0,2025-08-28
+West,Sports,Yoga Mat,14.72,2.0,2025-07-30
+North,Home,Cookware,56.18,6.0,2025-07-03
+North,Home,Lamp,19.25,3.0,2025-10-01
+North,Sports,Dumbbells,27.6,3.0,2025-03-20
+West,Books,Novel,15.15,5.0,2025-12-15
+North,Clothing,Jacket,56.19,3.0,2025-05-26
+East,Home,Curtains,44.535,6.0,2025-10-15
+West,Books,Novel,13.67,8.0,2025-08-12
+North,Electronics,Smartphone,44.535,8.0,2025-05-15
+South,Clothing,Jeans,38.46,5.0,2025-06-01
+East,Clothing,Sneakers,43.92,8.0,2025-12-04
+South,Sports,Skipping Rope,13.41,5.0,2025-06-21
+West,Sports,Dumbbells,20.25,3.0,2025-12-18
+West,Books,Textbook,46.46,9.0,2025-02-13
+West,Home,Curtains,40.27,1.0,2025-11-26
+West,Sports,Skipping Rope,8.88,4.0,2025-05-16
+South,Home,Cookware,54.52,3.0,2025-04-11
+North,Sports,Dumbbells,38.42,7.0,2025-09-22
+South,Sports,Yoga Mat,21.18,1.0,2025-03-28
+West,Books,Comics,9.99,2.0,2025-12-25
+South,Clothing,Sneakers,57.71,5.0,2025-08-27
+West,Sports,Dumbbells,33.55,4.0,2025-10-10
+West,Books,Comics,7.82,5.0,2025-10-02
+East,Electronics,Headphones,44.53,3.0,2025-04-18
+East,Electronics,Smartphone,44.535,5.0,2025-03-11
+North,Sports,Dumbbells,41.14,3.0,2025-03-14
+North,Books,Comics,4.87,4.0,2025-11-12
+North,Sports,Yoga Mat,8.76,1.0,2025-07-11
+South,Sports,Bicycle,44.535,3.0,2025-08-27
+North,Home,Cookware,57.74,6.0,2025-08-27
+West,Home,Chair,76.09,7.0,2025-05-25
+West,Clothing,Jacket,75.78,6.0,2025-04-10
+West,Books,Comics,4.93,3.0,2025-08-27
+East,Home,Chair,66.33,2.0,2025-07-16
+West,Clothing,Sneakers,53.56,7.0,2025-09-10
+North,Home,Curtains,44.535,5.0,2025-04-12
+North,Books,Textbook,44.535,3.0,2025-11-25
+West,Clothing,T-Shirt,11.51,1.0,2025-02-25
+West,Home,Cookware,48.22,4.0,2025-02-11
+South,Clothing,Jeans,63.83,2.0,2025-11-05
+South,Home,Lamp,25.34,9.0,2025-04-26
+West,Clothing,Sneakers,65.29,8.0,2025-12-30
+West,Books,Comics,5.63,5.0,2025-02-09
+South,Electronics,Smartphone,44.535,4.0,2025-06-15
+East,Clothing,Jacket,100.95,4.0,2025-10-24
+North,Sports,Skipping Rope,12.61,5.0,2025-11-24
+East,Books,Comics,7.06,5.0,2025-02-06
+East,Sports,Yoga Mat,8.79,1.0,2025-03-02
+South,Clothing,Sneakers,63.15,9.0,2025-10-06
+East,Home,Cookware,53.4,7.0,2025-07-17
+East,Electronics,Laptop,44.535,2.0,2025-10-30
+South,Books,Textbook,31.0,7.0,2025-11-07
+South,Home,Chair,85.33,6.0,2025-05-20
+West,Home,Lamp,25.4,6.0,2025-01-28
+South,Home,Curtains,28.39,6.0,2025-01-23
+North,Home,Curtains,30.3,4.0,2025-01-24
+South,Sports,Dumbbells,39.84,5.0,2025-04-23
+West,Books,Novel,15.69,3.0,2025-09-16
+West,Clothing,Jeans,44.75,6.0,2025-09-20
+North,Sports,Yoga Mat,27.55,1.0,2025-09-05
+East,Sports,Yoga Mat,22.62,1.0,2025-07-20
+North,Books,Comics,8.84,8.0,2025-08-27
+North,Home,Lamp,24.16,3.0,2025-07-18
+West,Books,Comics,12.04,2.0,2025-03-30
+North,Sports,Yoga Mat,10.64,8.0,2025-04-04
+West,Clothing,Jacket,90.36,4.0,2025-09-16
+West,Sports,Yoga Mat,14.41,5.0,2025-01-30
+East,Books,Textbook,31.71,1.0,2025-03-09
+North,Home,Chair,67.3,5.0,2025-08-04
+North,Books,Novel,10.12,5.0,2025-02-13
+South,Books,Novel,8.47,2.0,2025-04-07
+North,Electronics,Headphones,105.32,2.0,2025-11-22
+West,Home,Lamp,27.85,7.0,2025-12-06
+North,Home,Cookware,53.32,5.0,2025-03-30
+East,Home,Cookware,46.15,2.0,2025-09-07
+East,Clothing,Jacket,83.6,7.0,2025-05-31
+South,Books,Comics,9.25,6.0,2025-10-15
+South,Books,Textbook,40.87,6.0,2025-06-08
+North,Books,Novel,15.31,7.0,2025-08-27
+North,Sports,Dumbbells,44.535,4.0,2025-10-14
+East,Sports,Dumbbells,31.56,6.0,2025-06-03
+North,Clothing,Jacket,97.34,7.0,2025-04-04
+West,Home,Curtains,39.2,8.0,2025-08-14
+South,Electronics,Chair,74.86,6.0,2025-11-17
+South,Books,Textbook,35.79,7.0,2025-11-11
+South,Sports,Dumbbells,30.5,6.0,2025-07-02
+East,Home,Cookware,33.88,3.0,2025-03-02
+South,Sports,Bicycle,44.535,2.0,2025-10-13
+North,Sports,Yoga Mat,23.52,4.0,2025-03-07
+East,Sports,Dumbbells,47.22,5.0,2025-03-29
+North,Clothing,Jacket,62.55,8.0,2025-02-18
+North,Clothing,Jeans,26.91,8.0,2025-06-19
+West,Clothing,Jeans,43.91,2.0,2025-06-17
+North,Clothing,Chair,84.96,6.0,2025-08-02
+North,Electronics,Headphones,64.35,9.0,2025-08-27
+North,Home,Curtains,13.48,6.0,2025-03-04
+East,Clothing,T-Shirt,14.18,1.0,2025-10-02
+East,Clothing,Jeans,36.79,8.0,2025-05-23
+West,Books,Textbook,46.93,5.0,2025-01-01
+South,Sports,Dumbbells,40.39,5.0,2025-09-29
+West,Home,Chair,49.56,3.0,2025-09-25
+South,Electronics,Headphones,90.0,6.0,2025-12-13
+North,Sports,Dumbbells,24.75,8.0,2025-11-26
+North,Home,Curtains,31.93,5.0,2025-10-05
+East,Clothing,Sneakers,103.58,8.0,2025-03-08
+South,Home,Lamp,23.1,7.0,2025-05-12
+North,Clothing,Sneakers,75.71,3.0,2025-10-15
+North,Electronics,Comics,10.22,6.0,2025-06-11
+South,Electronics,Headphones,83.03,5.0,2025-05-05
+North,Electronics,Headphones,74.33,3.0,2025-02-18
+North,Home,Curtains,30.67,3.0,2025-01-01
+West,Books,Comics,44.535,7.0,2025-03-05
+North,Home,Lamp,20.78,8.0,2025-03-16
+South,Clothing,Sneakers,74.52,5.0,2025-07-16
+West,Electronics,Headphones,101.95,8.0,2025-01-24
+North,Clothing,Jacket,85.48,9.0,2025-07-18
+North,Clothing,T-Shirt,10.82,7.0,2025-11-19
+West,Books,Comics,8.63,8.0,2025-10-26
+West,Clothing,Jacket,68.85,8.0,2025-01-15
+East,Books,Textbook,35.3,4.0,2025-05-07
+South,Books,Novel,8.62,1.0,2025-07-23
+West,Home,Chair,66.14,6.0,2025-04-15
+North,Electronics,Headphones,85.67,7.0,2025-05-30
+West,Books,Textbook,24.29,9.0,2025-08-27
+West,Home,Chair,74.84,3.0,2025-06-18
+East,Electronics,Jacket,73.94,6.0,2025-02-23
+North,Home,Cookware,50.92,8.0,2025-03-27
+South,Sports,Skipping Rope,11.59,4.0,2025-09-15
+South,Home,Lamp,31.31,1.0,2025-08-27
+West,Home,Chair,84.85,6.0,2025-04-27
+North,Electronics,Headphones,44.535,5.0,2025-01-02
+East,Sports,Yoga Mat,27.68,1.0,2025-05-01
+South,Clothing,Jeans,49.63,6.0,2025-01-26
+West,Clothing,Sneakers,53.18,5.0,2025-11-01
+West,Clothing,Jeans,41.41,2.0,2025-10-17
+East,Clothing,Jeans,45.78,3.0,2025-06-19
+West,Home,Chair,107.36,3.0,2025-12-18
+East,Electronics,Headphones,81.84,5.0,2025-11-30
+South,Books,Novel,44.535,6.0,2025-12-27
+East,Sports,Dumbbells,25.83,4.0,2025-05-10
+West,Home,Curtains,24.87,7.0,2025-04-03
+West,Home,Cookware,44.535,4.0,2025-01-08
+South,Home,Cookware,63.27,8.0,2025-06-13
+North,Sports,Yoga Mat,24.54,4.0,2025-09-16
+South,Books,Textbook,34.38,5.0,2025-11-04
+East,Clothing,T-Shirt,44.535,2.0,2025-06-13
+North,Clothing,Sneakers,50.72,5.0,2025-04-24
+West,Sports,Yoga Mat,14.82,5.0,2025-11-10
+North,Home,Curtains,38.93,1.0,2025-02-24
+South,Books,Textbook,30.8,7.0,2025-03-02
+South,Books,Novel,6.72,8.0,2025-08-27
+North,Books,Textbook,37.47,9.0,2025-11-30
+West,Clothing,Sneakers,36.51,1.0,2025-10-22
+North,Home,Lamp,24.95,1.0,2025-05-10
+South,Home,Chair,71.44,2.0,2025-09-22
+North,Home,Curtains,34.25,6.0,2025-01-28
+North,Home,Chair,64.84,1.0,2025-03-20
+West,Clothing,Jeans,58.86,3.0,2025-10-16
+West,Clothing,T-Shirt,8.17,8.0,2025-11-14
+North,Home,Lamp,13.69,7.0,2025-06-10
+West,Books,Textbook,69.87,8.0,2025-09-17
+East,Sports,Yoga Mat,20.51,3.0,2025-10-14
+South,Home,Lamp,29.07,5.0,2025-10-12
+North,Home,Lamp,34.36,6.0,2025-07-29
+East,Home,Cookware,48.95,5.0,2025-06-29
+North,Sports,Dumbbells,44.535,9.0,2025-02-01
+East,Electronics,Dumbbells,33.5,8.0,2025-07-15
+North,Clothing,T-Shirt,19.35,5.0,2025-03-15
+South,Clothing,Jacket,44.535,6.0,2025-12-15
+West,Sports,Skipping Rope,7.16,4.0,2025-09-19
+East,Clothing,Jeans,50.73,8.0,2025-05-28
+West,Books,Comics,7.0,3.0,2025-11-22
+West,Clothing,Jacket,104.39,2.0,2025-09-06
+South,Sports,Dumbbells,20.08,9.0,2025-06-10
+North,Home,Curtains,44.535,2.0,2025-04-23
+West,Books,Textbook,13.75,4.0,2025-11-15
+East,Books,Textbook,52.45,5.0,2025-01-26
+West,Clothing,Jeans,42.27,3.0,2025-08-27
+East,Sports,Skipping Rope,7.41,5.0,2025-11-03
+East,Clothing,Sneakers,64.33,1.0,2025-01-22
+North,Books,Comics,7.69,1.0,2025-08-27
+East,Clothing,T-Shirt,18.16,8.0,2025-08-27
+West,Clothing,Jeans,41.73,9.0,2025-11-28
+South,Electronics,Headphones,95.9,5.0,2025-06-13
+West,Electronics,Headphones,38.9,6.0,2025-06-10
+East,Books,Novel,12.71,4.0,2025-04-04
+North,Sports,Skipping Rope,7.24,1.0,2025-10-05
+West,Books,Textbook,33.99,7.0,2025-04-04
+North,Books,Novel,44.535,5.0,2025-09-18
+East,Books,Comics,8.42,8.0,2025-11-30
+South,Home,Cookware,75.16,8.0,2025-04-06
+East,Home,Cookware,71.0,8.0,2025-08-02
+North,Home,Cookware,43.57,5.0,2025-05-28
+West,Electronics,Smartphone,44.535,4.0,2025-05-12
+West,Sports,Yoga Mat,16.43,3.0,2025-08-27
+South,Home,Lamp,18.55,9.0,2025-04-17
+West,Home,Cookware,88.8,7.0,2025-12-28
+East,Clothing,T-Shirt,10.08,3.0,2025-08-22
+North,Books,Textbook,67.6,8.0,2025-04-15
+South,Clothing,Jeans,40.78,4.0,2025-10-15
+West,Clothing,T-Shirt,18.71,2.0,2025-08-31
+North,Clothing,Jeans,48.21,8.0,2025-03-23
+South,Home,Lamp,25.15,1.0,2025-09-28
+South,Home,Cookware,55.36,6.0,2025-10-04
+North,Home,Cookware,72.31,3.0,2025-03-08
+North,Home,Curtains,36.29,8.0,2025-07-31
+East,Clothing,Sneakers,60.17,5.0,2025-05-08
+East,Clothing,Jacket,116.81,5.0,2025-08-27
+South,Electronics,Headphones,56.39,2.0,2025-09-04
+North,Home,Chair,47.94,5.0,2025-07-01
+South,Books,Textbook,31.95,5.0,2025-12-10
+West,Clothing,T-Shirt,12.8,7.0,2025-04-15
+North,Home,Cookware,72.94,7.0,2025-10-27
+North,Sports,Yoga Mat,21.71,6.0,2025-08-27
+North,Clothing,Jacket,83.38,9.0,2025-11-17
+North,Books,Comics,8.58,7.0,2025-06-17
+South,Clothing,Jacket,62.63,7.0,2025-08-02
+South,Books,Novel,44.535,8.0,2025-02-01
+South,Books,Comics,7.55,2.0,2025-04-10
+South,Sports,Dumbbells,28.12,5.0,2025-03-30
+South,Sports,Dumbbells,31.96,7.0,2025-08-04
+South,Books,Textbook,49.84,8.0,2025-06-25
+North,Clothing,T-Shirt,9.91,9.0,2025-01-18
+North,Clothing,Jacket,69.0,6.0,2025-11-11
+East,Books,Textbook,35.62,9.0,2025-08-03
+South,Sports,Skipping Rope,7.37,3.0,2025-04-24
+West,Clothing,T-Shirt,44.535,2.0,2025-04-18
+East,Home,Lamp,44.535,5.0,2025-01-24
+South,Home,Curtains,22.16,6.0,2025-02-16
+East,Home,Chair,78.48,2.0,2025-05-09
+South,Books,Novel,9.33,5.0,2025-05-15
+East,Home,Curtains,44.535,7.0,2025-06-02
+North,Books,Textbook,46.99,8.0,2025-08-29
+East,Home,Lamp,33.18,5.0,2025-12-27
+North,Books,Textbook,44.535,3.0,2025-12-24
+North,Home,Chair,70.2,3.0,2025-01-29
+South,Electronics,Laptop,44.535,5.0,2025-09-08
+West,Electronics,Headphones,77.16,2.0,2025-06-16
+South,Books,Novel,8.09,7.0,2025-03-12
+West,Sports,Dumbbells,23.81,9.0,2025-03-31
+South,Sports,Dumbbells,47.39,5.0,2025-02-12
+North,Home,Cookware,61.2,4.0,2025-03-30
+South,Books,Comics,44.535,5.0,2025-03-19
+North,Clothing,Jeans,44.535,4.0,2025-03-30
+South,Sports,Skipping Rope,7.67,3.0,2025-07-13
+West,Sports,Skipping Rope,6.62,6.0,2025-03-05
+North,Electronics,Headphones,66.62,8.0,2025-08-26
+South,Clothing,T-Shirt,17.11,3.0,2025-10-23
+East,Books,Textbook,50.28,5.0,2025-08-11
+North,Sports,Dumbbells,44.535,1.0,2025-02-13
+East,Books,Textbook,45.79,2.0,2025-05-18
+North,Electronics,Laptop,44.535,3.0,2025-10-02
+East,Books,Textbook,49.04,2.0,2025-04-03
+West,Home,Cookware,51.98,9.0,2025-09-20
+East,Clothing,T-Shirt,19.25,8.0,2025-06-06
+East,Books,Novel,11.35,7.0,2025-08-08
+South,Home,Chair,75.22,7.0,2025-09-11
+South,Clothing,Jacket,48.23,6.0,2025-08-27
+East,Clothing,T-Shirt,15.98,6.0,2025-12-29
+South,Electronics,Laptop,44.535,8.0,2025-08-31
+North,Electronics,Headphones,106.5,5.0,2025-05-19
+East,Sports,Dumbbells,36.44,2.0,2025-11-19
+East,Clothing,Sneakers,50.42,5.0,2025-12-18
+West,Books,Textbook,26.33,5.0,2025-11-03
+West,Books,Comics,6.26,2.0,2025-08-27
+North,Books,Comics,9.68,9.0,2025-11-15
+North,Home,Cookware,71.99,6.0,2025-12-04
+South,Sports,Yoga Mat,20.4,8.0,2025-10-11
+West,Home,Cookware,55.64,8.0,2025-11-21
+West,Clothing,T-Shirt,16.49,9.0,2025-10-31
+South,Books,Novel,14.55,6.0,2025-08-13
+East,Sports,Yoga Mat,44.535,9.0,2025-03-27
+East,Electronics,Headphones,44.535,8.0,2025-01-27
+South,Clothing,T-Shirt,12.67,5.0,2025-11-15
+North,Home,Curtains,27.17,3.0,2025-08-10
+East,Clothing,Jeans,24.93,5.0,2025-09-17
+South,Clothing,T-Shirt,16.28,7.0,2025-09-05
+East,Books,Textbook,65.44,5.0,2025-12-25
+South,Books,Textbook,38.23,4.0,2025-04-10
+North,Sports,Skipping Rope,9.91,8.0,2025-09-02
+North,Sports,Dumbbells,36.55,6.0,2025-06-12
+East,Clothing,Jeans,24.6,4.0,2025-09-03
+North,Electronics,Smartphone,44.535,2.0,2025-01-04
+West,Home,Cookware,44.535,3.0,2025-02-24
+South,Books,Textbook,42.34,2.0,2025-10-24
+East,Clothing,Jacket,49.8,7.0,2025-12-05
+West,Sports,Dumbbells,31.47,7.0,2025-09-21
+South,Home,Cookware,59.97,3.0,2025-04-29
+South,Sports,Skipping Rope,12.47,6.0,2025-08-27
+West,Sports,Yoga Mat,24.85,9.0,2025-11-09
+East,Home,Chair,76.7,2.0,2025-02-22
+East,Clothing,Sneakers,61.53,5.0,2025-07-21
+South,Home,Cookware,43.82,8.0,2025-09-25
+West,Home,Curtains,51.09,9.0,2025-11-29
+North,Books,Comics,7.9,9.0,2025-01-27
+South,Books,Comics,4.8,3.0,2025-09-07
+South,Clothing,Jeans,24.0,7.0,2025-08-26
+South,Sports,Yoga Mat,20.3,2.0,2025-07-14
+West,Sports,Skipping Rope,44.535,8.0,2025-08-11
+West,Home,Lamp,34.93,1.0,2025-03-25
+North,Home,Cookware,80.32,5.0,2025-08-13
+North,Books,Novel,9.27,6.0,2025-11-02
+North,Electronics,Headphones,103.51,8.0,2025-05-12
+South,Clothing,T-Shirt,16.51,8.0,2025-11-13
+West,Clothing,T-Shirt,15.05,2.0,2025-05-29
+West,Sports,Dumbbells,28.07,4.0,2025-07-13
+North,Sports,Dumbbells,15.58,2.0,2025-10-15
+North,Home,Chair,101.39,9.0,2025-12-26
+East,Electronics,Headphones,59.03,6.0,2025-08-28
+East,Books,Comics,6.33,3.0,2025-01-11
+East,Home,Lamp,27.47,6.0,2025-04-09
+East,Books,Textbook,47.29,8.0,2025-03-28
+North,Books,Textbook,45.99,6.0,2025-06-04
+South,Clothing,Sneakers,66.03,4.0,2025-11-29
+East,Sports,Skipping Rope,10.08,8.0,2025-08-03
+East,Home,Chair,52.64,5.0,2025-01-27
+West,Sports,Skipping Rope,44.535,6.0,2025-02-11
+North,Clothing,Jacket,81.21,1.0,2025-08-27
+West,Sports,Yoga Mat,29.41,3.0,2025-06-26
+South,Home,Lamp,31.07,4.0,2025-02-24
+East,Sports,Yoga Mat,23.66,1.0,2025-08-19
+West,Home,Curtains,23.23,9.0,2025-04-01
+West,Clothing,Jeans,30.97,5.0,2025-03-11
+South,Books,Textbook,44.535,7.0,2025-08-27
+South,Sports,Skipping Rope,5.07,1.0,2025-03-07
+West,Books,Textbook,44.03,6.0,2025-04-29
+North,Electronics,Headphones,95.59,9.0,2025-12-02
+North,Home,Curtains,36.67,1.0,2025-08-14
+North,Sports,Bicycle,44.535,2.0,2025-07-17
+East,Clothing,Sneakers,69.58,3.0,2025-07-26
+South,Books,Novel,8.9,5.0,2025-06-17
+South,Clothing,T-Shirt,16.84,6.0,2025-07-13
+North,Electronics,Smartphone,44.535,1.0,2025-07-30
+East,Books,Textbook,53.15,5.0,2025-11-23
+North,Clothing,Jeans,45.67,5.0,2025-08-27
+South,Sports,Skipping Rope,12.44,3.0,2025-08-27
+East,Home,Chair,82.1,5.0,2025-08-11
+South,Clothing,Sneakers,70.24,1.0,2025-08-25
+West,Books,Textbook,59.48,5.0,2025-12-19
+West,Home,Chair,71.04,8.0,2025-05-17
+East,Home,Curtains,44.535,7.0,2025-10-03
+South,Home,Chair,53.41,1.0,2025-02-18
+South,Books,Comics,11.6,3.0,2025-09-14
+West,Books,Novel,44.535,7.0,2025-07-06
+North,Electronics,Smartphone,44.535,9.0,2025-06-22
+North,Electronics,Headphones,124.78,3.0,2025-09-01
+West,Books,Comics,9.23,7.0,2025-10-19
+West,Electronics,Headphones,66.02,9.0,2025-04-11
+East,Sports,Dumbbells,44.535,5.0,2025-02-10
+North,Home,Chair,122.47,5.0,2025-08-26
+North,Electronics,Headphones,46.71,8.0,2025-01-07
+East,Clothing,T-Shirt,13.93,8.0,2025-11-18
+South,Books,Textbook,46.54,4.0,2025-08-28
+West,Home,Chair,58.89,8.0,2025-09-01
+East,Clothing,T-Shirt,13.99,1.0,2025-05-23
+North,Home,Cookware,46.63,7.0,2025-04-20
+East,Books,Textbook,50.21,1.0,2025-07-12
+East,Sports,Yoga Mat,17.99,5.0,2025-05-17
+East,Books,Novel,17.16,5.0,2025-04-02
+West,Home,Cookware,25.02,9.0,2025-04-03
+South,Electronics,Smartphone,44.535,5.0,2025-07-11
+North,Home,Curtains,40.79,7.0,2025-05-29
+North,Sports,Dumbbells,38.29,9.0,2025-10-21
+South,Clothing,Headphones,63.65,9.0,2025-04-24
+East,Home,Lamp,21.71,8.0,2025-10-07
+East,Clothing,T-Shirt,14.8,7.0,2025-04-09
+North,Clothing,Jeans,37.28,7.0,2025-08-27
+East,Home,Curtains,24.55,2.0,2025-04-01
+West,Electronics,Headphones,87.54,5.0,2025-09-09
+North,Home,Curtains,39.06,2.0,2025-06-16
+East,Electronics,Headphones,52.76,3.0,2025-08-27
+East,Clothing,Jacket,110.98,7.0,2025-08-27
+East,Home,Chair,88.79,2.0,2025-01-06
+West,Home,Chair,86.55,4.0,2025-03-16
+West,Home,Lamp,31.01,1.0,2025-10-19
+West,Books,Comics,8.25,5.0,2025-12-29
+North,Books,Comics,6.6,6.0,2025-03-15
+North,Home,Cookware,46.1,7.0,2025-10-15
+West,Home,Chair,68.9,3.0,2025-07-11
+South,Home,Chair,107.69,6.0,2025-06-10
+North,Clothing,Sneakers,53.59,1.0,2025-04-06
+West,Home,Curtains,28.0,2.0,2025-04-30
+North,Sports,Skipping Rope,11.65,1.0,2025-11-21
+West,Clothing,Jacket,92.67,8.0,2025-11-03
+West,Sports,Yoga Mat,19.11,8.0,2025-08-23
+South,Clothing,Sneakers,38.67,9.0,2025-11-29
+East,Home,Cookware,65.66,4.0,2025-11-26
+East,Clothing,Jacket,101.75,1.0,2025-10-12
+West,Books,Textbook,42.17,7.0,2025-11-12
+South,Books,Novel,11.77,5.0,2025-05-18
+South,Books,Novel,16.55,5.0,2025-08-27
+North,Clothing,Sneakers,62.75,7.0,2025-04-03
+West,Books,Textbook,15.47,9.0,2025-04-04
+West,Home,Curtains,27.68,6.0,2025-08-01
+West,Books,Comics,9.64,5.0,2025-02-08
+North,Home,Lamp,15.89,2.0,2025-06-25
+South,Sports,Dumbbells,40.82,1.0,2025-11-19
+East,Clothing,Jeans,37.64,5.0,2025-09-24
+West,Books,Textbook,43.93,4.0,2025-01-27
+East,Books,Comics,4.71,1.0,2025-05-24
+East,Sports,Yoga Mat,15.09,2.0,2025-01-12
+North,Electronics,Laptop,44.535,2.0,2025-05-31
+West,Clothing,Sneakers,57.26,2.0,2025-05-03
+West,Books,Comics,8.57,3.0,2025-02-08
+West,Home,Lamp,35.4,2.0,2025-01-20
+East,Clothing,Jacket,78.0,1.0,2025-04-20
+East,Clothing,Sneakers,38.31,5.0,2025-10-28
+South,Sports,Dumbbells,52.81,5.0,2025-03-26
+South,Books,Comics,5.85,7.0,2025-09-05
+East,Home,Chair,53.9,7.0,2025-07-27
+West,Home,Curtains,11.93,6.0,2025-02-05
+North,Clothing,Jeans,38.97,3.0,2025-09-12
+North,Sports,Skipping Rope,7.01,7.0,2025-01-15
+East,Clothing,T-Shirt,17.06,9.0,2025-07-31
+East,Home,Lamp,19.32,7.0,2025-08-27
+West,Books,Textbook,59.87,5.0,2025-08-07
+South,Books,Textbook,34.87,7.0,2025-04-02
+East,Books,Novel,5.36,6.0,2025-02-12
+North,Books,Textbook,49.01,2.0,2025-01-09
+North,Sports,Bicycle,134.83,9.0,2025-04-01
+East,Clothing,Jeans,39.4,3.0,2025-12-30
+South,Home,Chair,51.42,4.0,2025-04-21
+North,Clothing,T-Shirt,12.49,7.0,2025-10-08
+North,Clothing,T-Shirt,7.31,7.0,2025-09-14
+North,Home,Lamp,15.86,2.0,2025-09-08
+South,Clothing,Jeans,44.84,5.0,2025-03-09
+North,Electronics,Smartphone,44.535,2.0,2025-05-24
+North,Electronics,Headphones,93.93,5.0,2025-05-02
+South,Home,Curtains,44.535,1.0,2025-08-14
+South,Clothing,Jacket,58.97,5.0,2025-11-25
+South,Clothing,Sneakers,61.61,1.0,2025-02-14
+West,Clothing,Jeans,28.67,5.0,2025-03-07
+East,Electronics,Headphones,108.02,7.0,2025-06-25
+North,Electronics,Smartphone,44.535,3.0,2025-06-05
+East,Home,Curtains,25.67,9.0,2025-12-27
+East,Clothing,Jacket,44.535,9.0,2025-03-25
+North,Sports,Dumbbells,30.41,7.0,2025-12-04
+West,Home,Curtains,32.48,3.0,2025-10-24
+West,Electronics,Headphones,63.1,8.0,2025-10-25
+North,Books,Novel,16.4,6.0,2025-03-19
+West,Home,Chair,85.33,6.0,2025-10-14
+East,Home,Curtains,30.09,6.0,2025-06-05
+West,Home,Lamp,25.49,3.0,2025-11-09
+North,Home,Chair,47.94,2.0,2025-07-01
+North,Sports,Skipping Rope,44.535,5.0,2025-07-03
+West,Books,Textbook,30.57,1.0,2025-02-19
+South,Sports,Yoga Mat,21.62,8.0,2025-09-29
+East,Clothing,Jacket,48.19,4.0,2025-07-28
+South,Sports,Yoga Mat,25.19,4.0,2025-06-08
+East,Home,Curtains,37.36,1.0,2025-08-06
+South,Home,Chair,84.1,7.0,2025-08-27
+North,Books,Comics,5.8,2.0,2025-01-06
+North,Books,Textbook,39.76,2.0,2025-03-17
+South,Clothing,Jeans,22.73,3.0,2025-08-27
+South,Home,Curtains,39.94,3.0,2025-10-26
+North,Home,Chair,107.39,4.0,2025-08-30
+North,Home,Lamp,27.09,4.0,2025-05-16
+South,Home,Lamp,15.85,7.0,2025-11-07
+North,Electronics,Headphones,46.34,4.0,2025-05-02
+West,Clothing,Jeans,56.0,5.0,2025-03-28
+West,Clothing,T-Shirt,16.77,3.0,2025-03-14
+East,Clothing,Sneakers,56.45,3.0,2025-04-28
+East,Home,Chair,94.38,3.0,2025-08-27
+North,Clothing,Jacket,85.71,7.0,2025-04-08
+East,Sports,Yoga Mat,19.96,3.0,2025-08-27
+West,Clothing,Jacket,77.32,2.0,2025-01-13
+East,Books,Textbook,35.73,3.0,2025-09-07
+South,Home,Curtains,19.8,8.0,2025-07-31
+West,Clothing,Jeans,19.15,9.0,2025-03-07
+South,Home,Lamp,18.28,4.0,2025-06-28
+East,Sports,Yoga Mat,18.56,9.0,2025-04-25
+East,Clothing,Sneakers,78.43,3.0,2025-06-09
+West,Clothing,Sneakers,29.95,6.0,2025-07-10
+West,Books,Comics,7.05,2.0,2025-07-29
+West,Clothing,Jeans,49.24,1.0,2025-03-15
+East,Clothing,T-Shirt,44.535,1.0,2025-04-16
+East,Books,Textbook,51.1,5.0,2025-12-16
+East,Clothing,Jeans,40.09,1.0,2025-08-11
+North,Clothing,Sneakers,47.94,4.0,2025-07-07
+West,Clothing,Sneakers,45.25,8.0,2025-03-14
+North,Clothing,Sneakers,51.23,5.0,2025-06-24
+East,Sports,Dumbbells,33.08,3.0,2025-05-23
+East,Sports,Yoga Mat,44.535,3.0,2025-03-14
+West,Books,Textbook,43.35,6.0,2025-08-27
+South,Clothing,Jacket,64.35,5.0,2025-01-26
+North,Home,Curtains,39.53,4.0,2025-03-30
+North,Sports,Dumbbells,52.6,8.0,2025-09-06
+North,Sports,Dumbbells,32.63,4.0,2025-09-26
+North,Sports,Yoga Mat,27.38,2.0,2025-07-06
+West,Sports,Bicycle,44.535,1.0,2025-08-26
+North,Clothing,Sneakers,67.16,3.0,2025-01-21
+East,Clothing,T-Shirt,13.05,7.0,2025-02-15
+West,Home,Cookware,62.51,4.0,2025-09-16
+North,Clothing,Sneakers,28.51,3.0,2025-09-13
+North,Books,Comics,7.23,7.0,2025-11-30
+North,Clothing,Jacket,103.06,3.0,2025-01-12
+South,Home,Cookware,44.54,4.0,2025-04-24
+South,Sports,Yoga Mat,12.52,8.0,2025-08-02
+South,Books,Comics,8.71,4.0,2025-11-07
+West,Clothing,T-Shirt,12.82,1.0,2025-11-07
+West,Books,Textbook,44.535,3.0,2025-12-07
+South,Home,Lamp,22.58,9.0,2025-10-01
+North,Home,Curtains,38.97,2.0,2025-07-08
+North,Home,Cookware,55.97,8.0,2025-01-18
+East,Home,Curtains,21.21,2.0,2025-10-31
+South,Clothing,T-Shirt,13.0,2.0,2025-08-07
+West,Clothing,T-Shirt,20.41,3.0,2025-11-02
+North,Books,Comics,5.3,8.0,2025-10-19
+North,Home,Cookware,45.16,3.0,2025-08-27
+South,Home,Lamp,21.64,4.0,2025-04-02
+East,Clothing,Jacket,92.59,7.0,2025-08-02
+North,Books,Novel,9.75,4.0,2025-03-24
+South,Clothing,Jacket,55.27,2.0,2025-06-04
+West,Home,Chair,44.535,1.0,2025-02-14
+West,Home,Lamp,19.23,5.0,2025-09-01
+North,Clothing,Jacket,59.39,7.0,2025-08-27
+North,Sports,Yoga Mat,29.3,5.0,2025-03-11
+North,Home,Curtains,44.535,5.0,2025-04-21
+North,Sports,Yoga Mat,19.99,5.0,2025-12-14
+South,Electronics,Headphones,78.03,6.0,2025-08-27
+South,Sports,Yoga Mat,14.04,7.0,2025-06-04
+East,Clothing,T-Shirt,16.21,6.0,2025-02-16
+East,Clothing,Sneakers,53.41,1.0,2025-09-24
+South,Sports,Skipping Rope,11.0,1.0,2025-04-29
+South,Electronics,Headphones,66.13,7.0,2025-07-10
+East,Home,Curtains,26.92,9.0,2025-03-22
+South,Books,Novel,19.27,9.0,2025-02-24
+West,Electronics,Smartphone,44.535,4.0,2025-02-28
+East,Books,Textbook,47.64,9.0,2025-05-14
+West,Clothing,Jacket,75.25,9.0,2025-12-31
+South,Books,Novel,17.38,4.0,2025-08-27
+North,Books,Textbook,53.22,6.0,2025-04-11
+North,Books,Comics,8.18,5.0,2025-08-27
+East,Sports,Yoga Mat,16.08,1.0,2025-11-24
+North,Home,Lamp,26.76,7.0,2025-08-27
+North,Electronics,Headphones,44.535,9.0,2025-08-27
+South,Clothing,Chair,44.535,5.0,2025-01-12
+East,Books,Textbook,52.74,5.0,2025-08-27
+South,Clothing,Jeans,41.01,1.0,2025-08-16
+West,Sports,Skipping Rope,10.89,7.0,2025-02-12
+West,Electronics,Headphones,44.535,1.0,2025-03-23
+West,Sports,Skipping Rope,10.99,3.0,2025-01-20
+North,Electronics,Headphones,78.24,5.0,2025-02-15
+North,Clothing,Jacket,72.35,9.0,2025-09-08
+West,Books,Comics,10.61,9.0,2025-03-07
+West,Sports,Dumbbells,37.23,5.0,2025-11-12
+North,Home,Lamp,20.42,5.0,2025-05-01
+West,Clothing,Jeans,54.1,8.0,2025-01-29
+East,Clothing,Sneakers,58.39,6.0,2025-07-31
+East,Sports,Bicycle,44.535,8.0,2025-06-29
+North,Books,Novel,8.91,1.0,2025-05-14
+East,Home,Chair,120.38,9.0,2025-07-20
+West,Home,Lamp,14.12,9.0,2025-08-07
+South,Sports,Skipping Rope,13.3,2.0,2025-06-17
+West,Books,Comics,6.87,5.0,2025-09-07
+East,Books,Novel,13.59,9.0,2025-10-03
+North,Books,Comics,10.86,3.0,2025-01-15
+East,Clothing,Jeans,19.92,4.0,2025-12-25
+South,Books,Textbook,44.535,7.0,2025-03-31
+West,Clothing,Jeans,35.49,7.0,2025-12-18
+South,Books,Comics,11.15,7.0,2025-11-25
+South,Home,Lamp,42.59,2.0,2025-08-27
+East,Home,Curtains,26.92,5.0,2025-03-06
+North,Books,Novel,7.36,5.0,2025-01-03
+North,Sports,Skipping Rope,44.535,9.0,2025-07-20
+East,Books,Textbook,71.17,1.0,2025-12-25
+South,Clothing,Jacket,73.05,9.0,2025-08-27
+West,Home,Curtains,26.73,6.0,2025-08-27
+North,Books,Novel,15.53,8.0,2025-01-08
+East,Sports,Yoga Mat,17.02,2.0,2025-01-01
+West,Clothing,Sneakers,21.53,3.0,2025-06-21
+West,Home,Cookware,53.06,4.0,2025-08-21
+South,Home,Curtains,38.99,5.0,2025-04-16
+North,Books,Comics,7.52,1.0,2025-03-23
+South,Home,Lamp,36.23,8.0,2025-07-17
+West,Sports,Yoga Mat,11.97,6.0,2025-02-27
+North,Clothing,Jacket,143.43,4.0,2025-03-22
+South,Electronics,Headphones,102.55,1.0,2025-12-21
+South,Clothing,Jacket,79.88,2.0,2025-08-02
+East,Clothing,Jacket,72.83,9.0,2025-08-02
+East,Home,Curtains,27.41,6.0,2025-02-06
+North,Books,Textbook,40.41,5.0,2025-12-02
+North,Electronics,Camera,44.535,7.0,2025-04-03
+North,Books,Textbook,58.8,5.0,2025-11-23
+North,Clothing,Jeans,67.04,9.0,2025-08-25
+East,Books,Comics,9.3,9.0,2025-01-21
+North,Sports,Dumbbells,41.38,2.0,2025-08-07
+North,Sports,Yoga Mat,14.3,2.0,2025-03-31
+East,Books,Comics,44.535,5.0,2025-09-20
+West,Clothing,Sneakers,44.535,4.0,2025-03-13
+East,Home,Curtains,41.7,5.0,2025-11-04
+East,Books,Comics,8.19,2.0,2025-12-05
+North,Home,Curtains,31.34,7.0,2025-09-14
+West,Clothing,Jacket,94.89,1.0,2025-08-27
+East,Home,Lamp,26.63,9.0,2025-01-04
+West,Books,Comics,5.96,7.0,2025-10-02
+South,Electronics,Smartphone,44.535,5.0,2025-02-26
+East,Home,Curtains,44.535,5.0,2025-12-09
+North,Clothing,Jacket,67.66,2.0,2025-07-05
+South,Home,Curtains,38.97,2.0,2025-07-08
+South,Home,Cookware,72.7,7.0,2025-04-28
+South,Home,Lamp,24.82,5.0,2025-09-29
+North,Books,Comics,8.42,5.0,2025-05-20
+West,Sports,Yoga Mat,14.59,4.0,2025-06-19
+South,Electronics,Headphones,44.535,8.0,2025-04-15
+North,Electronics,Headphones,72.69,7.0,2025-12-10
+South,Sports,Dumbbells,25.84,4.0,2025-11-29
+East,Electronics,Headphones,74.94,5.0,2025-09-12
+South,Sports,Dumbbells,41.8,9.0,2025-11-09
+East,Home,Curtains,27.36,8.0,2025-01-27
+North,Sports,Dumbbells,31.66,4.0,2025-12-23
+South,Clothing,T-Shirt,17.47,5.0,2025-01-09
+South,Home,Lamp,14.88,1.0,2025-06-24
+South,Home,Curtains,30.52,2.0,2025-11-18
+East,Clothing,Jeans,43.85,8.0,2025-10-08
+North,Sports,Dumbbells,38.18,7.0,2025-07-28
+South,Home,Chair,46.11,5.0,2025-06-14
+West,Home,Chair,96.92,7.0,2025-10-02
+North,Home,Curtains,26.08,7.0,2025-11-15
+West,Books,Textbook,59.48,1.0,2025-12-19
+East,Clothing,Jacket,39.67,2.0,2025-03-15
+West,Electronics,Headphones,92.39,3.0,2025-09-20
+North,Electronics,Headphones,72.23,8.0,2025-03-31
+South,Electronics,Laptop,44.535,6.0,2025-02-15
+North,Books,Comics,8.91,9.0,2025-05-07
+South,Clothing,Jeans,44.535,2.0,2025-07-17
+North,Electronics,Headphones,44.535,6.0,2025-02-08
+East,Clothing,Jacket,44.535,4.0,2025-11-14
+South,Books,Novel,12.17,3.0,2025-09-23
+East,Electronics,Smartphone,44.535,5.0,2025-05-14
+West,Home,Curtains,37.16,8.0,2025-06-23
+North,Sports,Yoga Mat,44.535,7.0,2025-09-12
+West,Home,Chair,76.35,5.0,2025-01-30
+South,Electronics,Laptop,44.535,7.0,2025-07-14
+East,Sports,Skipping Rope,12.84,4.0,2025-06-27
+South,Clothing,T-Shirt,6.02,5.0,2025-05-31
+South,Clothing,Jacket,75.87,5.0,2025-03-25
+South,Clothing,Sneakers,45.19,7.0,2025-12-18
+West,Electronics,Headphones,82.27,6.0,2025-10-28
+East,Sports,Skipping Rope,7.96,7.0,2025-06-24
+North,Clothing,T-Shirt,11.04,4.0,2025-07-26
+West,Home,Lamp,24.5,3.0,2025-12-30
+North,Home,Chair,87.89,5.0,2025-08-27
+North,Sports,Dumbbells,44.535,8.0,2025-09-28
+North,Books,Comics,9.56,1.0,2025-02-24
+North,Clothing,Sneakers,76.81,5.0,2025-01-29
+South,Books,Textbook,49.94,2.0,2025-07-27
+North,Clothing,Jacket,61.93,8.0,2025-06-15
+North,Sports,Dumbbells,36.96,7.0,2025-03-03
+South,Home,Lamp,25.21,7.0,2025-01-22
+South,Home,Cookware,81.19,1.0,2025-01-05
+North,Sports,Dumbbells,38.85,4.0,2025-09-15
+North,Electronics,Lamp,27.46,4.0,2025-04-11
+North,Books,Textbook,43.05,4.0,2025-11-09
+East,Books,Novel,14.51,3.0,2025-05-30
+South,Clothing,Jacket,103.28,5.0,2025-09-21
+North,Electronics,Headphones,64.78,1.0,2025-03-24
+North,Home,Lamp,34.89,9.0,2025-08-30
+North,Clothing,Sneakers,43.37,4.0,2025-10-25
+North,Clothing,Jacket,109.3,4.0,2025-07-25
+West,Books,Comics,8.75,4.0,2025-01-29
+East,Clothing,T-Shirt,8.03,3.0,2025-05-30
+West,Books,Textbook,43.07,8.0,2025-01-25
+North,Sports,Dumbbells,50.22,4.0,2025-09-11
+West,Electronics,Headphones,65.45,9.0,2025-11-04
+North,Home,Cookware,62.77,2.0,2025-07-21
+West,Books,Novel,11.35,5.0,2025-08-27
+North,Books,Novel,14.51,5.0,2025-05-04
+West,Sports,Skipping Rope,9.06,4.0,2025-01-04
+West,Home,Curtains,27.89,1.0,2025-04-11
+South,Clothing,Sneakers,50.79,1.0,2025-11-24
+North,Clothing,Jacket,103.54,6.0,2025-04-30
+West,Books,Textbook,44.535,5.0,2025-08-27
+West,Books,Comics,44.535,7.0,2025-12-15
+East,Books,Comics,10.24,1.0,2025-04-26
+North,Clothing,Jeans,46.86,3.0,2025-06-13
+North,Home,Lamp,28.42,2.0,2025-10-04
+North,Books,Textbook,24.34,5.0,2025-02-09
+West,Home,Curtains,36.16,6.0,2025-09-28
+East,Books,Novel,11.61,5.0,2025-10-19
+West,Home,Chair,68.89,5.0,2025-04-08
+North,Clothing,Jeans,14.61,2.0,2025-07-12
+West,Books,Textbook,44.36,2.0,2025-01-29
+East,Sports,Yoga Mat,21.14,2.0,2025-12-29
+West,Home,Chair,68.32,9.0,2025-09-27
+North,Sports,Yoga Mat,14.71,9.0,2025-04-06
+North,Sports,Dumbbells,52.78,6.0,2025-02-26
+South,Sports,Yoga Mat,21.22,8.0,2025-09-21
+West,Books,Comics,9.96,1.0,2025-11-20
+North,Books,Comics,6.44,9.0,2025-10-23
+East,Electronics,Headphones,44.535,6.0,2025-03-18
+East,Clothing,Jeans,31.65,3.0,2025-05-28
+West,Clothing,Sneakers,53.22,9.0,2025-08-27
+East,Clothing,Jacket,68.78,8.0,2025-08-27
+North,Clothing,Jeans,45.32,1.0,2025-01-21
+East,Books,Comics,9.37,5.0,2025-09-05
+South,Books,Textbook,53.08,5.0,2025-04-18
+West,Books,Comics,8.63,1.0,2025-08-27
+South,Home,Chair,126.37,6.0,2025-03-15
+East,Home,Chair,80.92,8.0,2025-05-03
+South,Books,Comics,10.24,5.0,2025-07-02
+West,Electronics,Smartphone,44.535,1.0,2025-10-12
+North,Clothing,Jeans,44.535,7.0,2025-07-02
+North,Home,Chair,56.1,1.0,2025-11-29
+West,Electronics,Headphones,96.76,4.0,2025-07-08
+East,Books,Textbook,46.29,5.0,2025-06-22
+South,Electronics,Lamp,21.66,1.0,2025-08-16
+South,Home,Chair,99.36,1.0,2025-07-24
+East,Clothing,Sneakers,44.535,3.0,2025-02-04
+South,Clothing,Jacket,141.97,9.0,2025-05-04
+East,Home,Chair,44.47,3.0,2025-12-08
+East,Home,Chair,49.41,7.0,2025-12-31
+East,Clothing,Sneakers,56.68,2.0,2025-08-27
+East,Clothing,Sneakers,24.84,8.0,2025-12-05
+North,Books,Textbook,31.33,6.0,2025-07-24
+North,Clothing,Jacket,85.04,8.0,2025-05-03
+East,Clothing,Jeans,51.88,1.0,2025-09-06
+East,Clothing,Textbook,54.27,7.0,2025-02-03
+South,Clothing,Jeans,43.58,5.0,2025-06-12
+West,Books,Comics,8.42,5.0,2025-05-11
+North,Home,Curtains,28.69,5.0,2025-11-24
+West,Home,Lamp,29.91,3.0,2025-07-01
+South,Books,Comics,9.11,8.0,2025-11-04
+North,Clothing,T-Shirt,16.2,4.0,2025-10-19
+East,Clothing,Jeans,44.14,5.0,2025-11-03
+East,Sports,Dumbbells,41.81,4.0,2025-03-21
+South,Books,Comics,7.67,6.0,2025-07-04
+East,Home,Curtains,31.18,9.0,2025-08-27
+East,Clothing,Jeans,46.74,7.0,2025-03-03
+South,Sports,Yoga Mat,21.76,2.0,2025-09-20
+South,Books,Textbook,27.44,7.0,2025-04-25
+North,Clothing,Jeans,44.535,9.0,2025-08-03
+South,Electronics,Headphones,44.535,2.0,2025-09-23
+South,Sports,Dumbbells,34.51,3.0,2025-05-28
+East,Electronics,Headphones,76.94,3.0,2025-08-27
+West,Books,Textbook,44.29,1.0,2025-12-02
+East,Sports,Yoga Mat,12.09,5.0,2025-11-04
+West,Clothing,Jacket,28.14,4.0,2025-11-04
+North,Sports,Dumbbells,44.535,8.0,2025-04-07
+South,Sports,Yoga Mat,17.8,7.0,2025-04-18
+East,Electronics,Camera,44.535,9.0,2025-03-14
+East,Home,Curtains,19.46,5.0,2025-11-08
+East,Books,Comics,44.535,6.0,2025-08-27
+West,Clothing,Jeans,52.13,6.0,2025-07-20
+South,Books,Comics,7.39,9.0,2025-04-01
+East,Clothing,T-Shirt,13.32,5.0,2025-05-15
+South,Sports,Dumbbells,43.09,6.0,2025-08-15
+North,Books,Comics,8.55,5.0,2025-08-29
+East,Sports,Skipping Rope,7.71,9.0,2025-11-13
+North,Electronics,Headphones,52.35,9.0,2025-10-07
+West,Home,Chair,67.4,8.0,2025-04-16
+South,Clothing,T-Shirt,10.93,2.0,2025-11-29
+West,Sports,Yoga Mat,20.91,7.0,2025-11-22
+East,Home,Lamp,20.79,7.0,2025-09-18
+West,Books,Comics,44.535,3.0,2025-05-08
+South,Electronics,Headphones,79.14,4.0,2025-08-10
+West,Clothing,Sneakers,74.57,4.0,2025-05-07
+North,Home,Lamp,31.38,3.0,2025-11-03
+South,Home,Lamp,21.2,6.0,2025-10-31
+West,Clothing,Jacket,67.54,5.0,2025-04-27
+West,Home,Cookware,51.81,5.0,2025-08-22
+East,Home,Lamp,32.37,1.0,2025-06-30
+West,Books,Textbook,47.64,5.0,2025-02-17
+East,Clothing,Jacket,75.82,7.0,2025-05-23
+South,Books,Comics,44.535,3.0,2025-04-15
+West,Sports,Skipping Rope,9.3,3.0,2025-01-23
+South,Clothing,T-Shirt,8.59,8.0,2025-01-24
+South,Home,Lamp,25.53,1.0,2025-08-27
+South,Electronics,Headphones,116.44,9.0,2025-01-21
+East,Electronics,Comics,7.6,5.0,2025-05-07
+East,Clothing,Sneakers,44.535,5.0,2025-09-06
+South,Clothing,T-Shirt,11.75,5.0,2025-12-04
+North,Clothing,Jeans,53.81,4.0,2025-07-27
+West,Clothing,Sneakers,44.535,8.0,2025-11-20

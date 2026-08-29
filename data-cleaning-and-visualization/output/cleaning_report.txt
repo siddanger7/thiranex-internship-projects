@@ -1,0 +1,57 @@
+============================================================
+DATA CLEANING REPORT
+============================================================
+Raw data shape: (1240, 6)
+Duplicate rows before cleaning: 32
+Missing values before cleaning:
+region         41
+category        0
+product         0
+price         122
+quantity       61
+order_date     83
+
+Dropped 32 duplicate rows. New shape: (1208, 6)
+
+Unique regions: ['South', 'East', 'North', 'West', nan]
+Unique categories: ['Clothing', 'Sports', 'Books', 'Home', 'Electronics']
+
+After type conversion:
+price                float64
+quantity             float64
+order_date    datetime64[ns]
+
+Missing values before imputation:
+region         40
+category        0
+product         0
+price         120
+quantity       60
+order_date     81
+Negative quantities set to NaN (invalid).
+Re-deduplicated after imputation (removed 3 rows).
+Missing values after cleaning:
+region        0
+category      0
+product       0
+price         0
+quantity      0
+order_date    0 (all 0 expected)
+
+Price outlier bounds (IQR): lower=-65.61, upper=170.31
+Removed 225 outliers. New shape: (980, 6)
+
+Final shape: (980, 6)
+Final duplicates: 0
+Final missing values: 0
+
+Summary stats:
+            price    quantity                     order_date
+count  980.000000  980.000000                            980
+mean    40.048878    5.023469  2025-07-02 17:49:42.857142784
+min      3.800000    1.000000            2025-01-01 00:00:00
+25%     18.317500    3.000000            2025-04-01 18:00:00
+50%     39.895000    5.000000            2025-07-11 00:00:00
+75%     52.062500    7.000000            2025-09-20 00:00:00
+max    143.430000    9.000000            2025-12-31 00:00:00
+std     25.717949    2.482721                            NaN
